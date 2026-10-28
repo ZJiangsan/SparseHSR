@@ -1,0 +1,17 @@
+# Third-party imagery, checkpoints, and generated large outputs
+*.h5
+*.hdf5
+*.mat
+*.pth
+*.pt
+*.npy
+*.npz
+*.tif
+*.tiff
+*.raw
+*.hdr
+__pycache__/
+.ipynb_checkpoints/
+*.log
+fullBandStudy_*/
+hysure_COMPLETE_*/
