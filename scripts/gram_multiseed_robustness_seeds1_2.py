@@ -1,16 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 17 10:11:39 2026
-
-@author: nibio
-"""
-
-
-
-
-
-#!/usr/bin/env python3
 """Multi-seed robustness runner derived from the validated master script.
 
 This version intentionally preserves the original preprocessing, frozen encoder/decoder,
